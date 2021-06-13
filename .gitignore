@@ -1,0 +1,13 @@
+# /
+/.git
+
+.racs
+.rcfg
+.rdat
+*.asv
+*/*.asv
+/*/*.asv
+/debug.log
+
+*/debug.log
+*/debug
